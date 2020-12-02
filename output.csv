@@ -1,0 +1,267 @@
+title, difficulty, freeToUse
+Crack the hash,easy,true
+Reverse Engineering,medium,true
+Mr Robot CTF,medium,true
+Fowsniff CTF,easy,true
+WebAppSec 101,medium,true
+GoldenEye,medium,true
+Jurassic Park,hard,false
+Kali Machine,easy,false
+Pickle Rick,easy,true
+HeartBleed,easy,false
+Investigating Windows,medium,false
+Blue,easy,true
+UltraTech,medium,true
+ToolsRus,easy,false
+Nmap,easy,true
+OhSINT,easy,true
+Nessus,easy,true
+Cross-site Scripting,easy,false
+Forensics ,medium,true
+Intro to x86-64,easy,true
+c4ptur3-th3-fl4g,easy,true
+Meltdown Explained,medium,true
+Web Scanning,easy,true
+Networking,easy,true
+Splunk,hard,true
+CC: Radare2,easy,true
+StuxCTF,medium,true
+Ignite,easy,true
+Basic Pentesting,easy,true
+Vulnversity,easy,true
+Brainpan 1,hard,true
+HackPark,medium,false
+Anonforce,easy,true
+Empire,easy,true
+Simple CTF,easy,true
+Game Zone,easy,false
+Boiler CTF,medium,true
+Thompson,easy,true
+Library,easy,true
+Dav,easy,true
+Develpy,medium,true
+Brainstorm,medium,false
+Inoculation,hard,true
+Buffer Overflows,easy,false
+Kenobi,easy,true
+Break it,medium,true
+Skynet,easy,false
+Biohazard,medium,true
+Adventure Time,hard,true
+tmux,easy,true
+Scripting,medium,false
+Steel Mountain,easy,false
+Hacking with Powershell,easy,false
+Bebop,easy,false
+Corp,easy,false
+Metasploit,easy,true
+HA Joker CTF,medium,true
+DVWA,easy,true
+Wgel CTF,easy,true
+Alfred,easy,false
+Android Hacking 101,medium,true
+Borderlands,hard,true
+Agent Sudo,easy,true
+Toolbox: Vim ,easy,true
+Ice,easy,true
+WebGOAT,easy,true
+Ninja Skills,easy,true
+Reversing ELF,easy,true
+Attacktive Directory,medium,true
+Basic Malware RE,medium,true
+Blueprint,easy,true
+LazyAdmin,easy,true
+Avengers Blog,easy,false
+CC: Pen Testing,easy,true
+Wifi Hacking 101,easy,true
+Dumping Router Firmware,medium,true
+hc0n Christmas CTF,hard,true
+CC: Ghidra,easy,true
+LFI Basics,easy,true
+The find command,easy,true
+CTF collection Vol.1,easy,true
+Retro,hard,true
+Madness,easy,true
+Anthem,easy,true
+CC: Steganography,easy,true
+CTF collection Vol.2,medium,true
+Burp Suite,easy,false
+Jack,hard,false
+Daily Bugle,hard,true
+Sublist3r,easy,true
+Jack-of-All-Trades,easy,true
+Binex,medium,false
+The Cod Caper,easy,true
+OpenVPN,easy,true
+Year of the Rabbit,easy,true
+Musical Stego,medium,true
+Inclusion,easy,true
+Tor,easy,true
+Learn Linux,easy,true
+LFI,easy,false
+Willow,medium,true
+Geolocating Images,easy,true
+Jupyter 101,easy,true
+CMesS,medium,true
+Phishing: HiddenEye,easy,true
+Sudo Security Bypass,easy,true
+Sudo Buffer Overflow,easy,true
+CherryBlossom,hard,true
+hackerNote,medium,true
+Introductory Networking,easy,true
+MAL: Malware Introductory,easy,true
+Hydra,easy,true
+Volatility,easy,true
+XXE,easy,false
+Web Fundamentals,easy,true
+Intro to Python,easy,false
+Common Linux Privesc,easy,false
+Windows Base,easy,false
+CCT2019,hard,true
+dogcat,medium,true
+tomghost,easy,true
+JVM Reverse Engineering,medium,true
+Tony the Tiger,easy,true
+ZTH: Obscure Web Vulns,easy,false
+Google Dorking,easy,true
+Network Services,easy,false
+Introductory Researching,easy,true
+Nax,medium,true
+What the Shell?,easy,false
+Introduction to OWASP ZAP,easy,true
+Cicada-3301 Vol:1,medium,true
+Introduction to Django,easy,true
+MAL: Strings,easy,false
+symfonos6,hard,true
+Authenticate,easy,false
+ConvertMyVideo,medium,true
+Iron Corp,hard,true
+The Impossible Challenge,medium,true
+Carpe Diem 1,hard,true
+Windows PrivEsc Arena,medium,true
+Racetrack Bank,hard,true
+Blaster,easy,true
+Tempus Fugit Durius,hard,false
+Erit Securus I,easy,false
+KoTH Food CTF,medium,true
+KoTH Hackers,medium,true
+Lian_Yu,easy,true
+Ra,hard,true
+Post-Exploitation Basics,easy,true
+Hashing - Crypto 101,medium,false
+Jeff,hard,true
+Mindgames,medium,true
+Anonymous,medium,true
+SQL Injection,easy,false
+Linux PrivEsc,medium,true
+Upload Vulnerabilities,easy,false
+Gatekeeper,medium,true
+Python Playground,hard,true
+SSRF,easy,false
+Attacking Kerberos,easy,false
+Brooklyn Nine Nine,easy,true
+Peak Hill,medium,true
+Injection,easy,true
+Dave's Blog,hard,true
+Wonderland,medium,true
+Blog,medium,true
+Encryption - Crypto 101,medium,true
+Break Out The Cage,easy,true
+HaskHell,medium,true
+DLL HIJACKING,medium,true
+Content Security Policy,medium,false
+Year of the Fox,hard,true
+Active Directory Basics,easy,false
+Ra 2,hard,false
+Smag Grotto,easy,true
+AttackerKB,easy,true
+ZTH: Web 2,easy,false
+Windows PrivEsc,medium,true
+Bounty Hacker,easy,true
+MAL: Researching,easy,true
+OWASP Juice Shop,easy,true
+NIS - Linux Part I,easy,false
+Regular expressions,medium,true
+Easy Peasy,easy,true
+Intro to IoT Pentesting,easy,true
+Set,hard,false
+Recovery,medium,true
+Gotta Catch'em All!,easy,true
+Looking Glass,medium,true
+Linux PrivEsc Arena,medium,true
+Overpass,easy,true
+Source,easy,true
+Printer Hacking 101,easy,true
+harder,medium,true
+Anonymous Playground,hard,true
+OWASP Top 10,easy,true
+Motunui,hard,true
+Spring,hard,true
+Mnemonic,medium,true
+Buffer Overflow Prep,easy,true
+REmux The Tmux,easy,true
+Network Services 2,easy,false
+The Docker Rodeo,medium,false
+Yara,easy,true
+Ghizer,medium,true
+History of Malware,easy,true
+Bolt,easy,true
+Overpass 2 - Hacked,easy,true
+Psycho Break,easy,true
+kiba,easy,true
+Git Happens,easy,true
+Relevant,medium,true
+GamingServer,easy,true
+WWBuddy,medium,true
+Linux: Local Enumeration,easy,false
+Poster,easy,true
+The Blob Blog,medium,true
+One Piece,medium,true
+Jacob the Boss,medium,true
+Internal,hard,true
+Theseus,hard,true
+RootMe,easy,true
+For Business Reasons,hard,true
+Learn Rust,easy,true
+Misguided Ghosts,hard,true
+Revenge,medium,true
+Brute It,easy,true
+Aster,medium,true
+Welcome,easy,true
+Year of the Pig,hard,true
+iOS Forensics,easy,false
+Year of the Dog,hard,true
+The Marketplace,medium,true
+Physical Security Intro,easy,true
+Attacking ICS Plant #1,easy,true
+0day,medium,true
+Res,easy,false
+Persistence,easy,false
+Intro Exploit Development,easy,true
+Undiscovered,medium,true
+Year of the Owl,hard,true
+NerdHerd,medium,true
+The Server From Hell,medium,true
+You're in a cave ,hard,true
+Zero Logon,hard,false
+Wireshark 101,easy,false
+Osiris,hard,false
+JavaScript Basics,easy,true
+Tutorial,easy,true
+GraphQL,easy,false
+envizon,hard,true
+Startup,easy,true
+Chill Hack,easy,true
+Unbaked Pie,medium,true
+Hardening Basics Part 1,easy,false
+Hardening Basics Part 2,easy,false
+Getting Started,easy,true
+Bookstore,medium,true
+MAL: REMnux - The Redux,easy,false
+MITRE,easy,true
+Starting Out In Cyber Sec,easy,true
+Nmap,easy,true
+Advent of Cyber 2,easy,true
+Linux Fundamentals Part 1,easy,true
+Linux Fundamentals Part 3,easy,true
+Linux Fundamentals Part 2,easy,true
